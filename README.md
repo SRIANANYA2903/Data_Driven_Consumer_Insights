@@ -4,6 +4,7 @@
  
 This project focuses on analyzing customer purchase behavior using a synthetic retail dataset. The main objective is to understand customer shopping patterns, purchasing trends, and factors influencing buying decisions. The project is designed as an end-to-end data analytics pipeline for learning and academic purposes
 .
+
  **Objectives**
  
 Analyze customer purchasing patterns across product categories
@@ -28,16 +29,23 @@ Duplicate removal and missing value handling
 Feature engineering (e.g., revenue calculation)
 
 **Data Modeling**
+
 Structured the cleaned data for analysis
 Prepared final dataset for database storage
+
 **Database Integration**
+
 Exported cleaned data from Jupyter Notebook
 Imported data into MySQL database
 Created tables automatically during data ingestion
+
 **Data Analysis**
+
 Performed SQL queries to analyze customer behavior
 Identified trends, repeat customers, and revenue patterns
+
 **Visualization**
+
 Created interactive dashboards using Power BI
 Visualized key metrics and insights for easy interpretation
 
