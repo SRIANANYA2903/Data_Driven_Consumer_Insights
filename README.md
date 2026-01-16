@@ -19,6 +19,7 @@ Dataset Type: Synthetic / Simulated Customer Shopping Data
 Purpose: Learning and academic analysis
 Description:
 The dataset simulates real-world retail customer transactions, including customer details, product categories, pricing, quantity, discounts, and purchase information. No real customer data is used.
+![Data_Driven_Consumer_Insights](retail_consumer_behavior_analysis_screenshots/Screenshot%202026-01-16%20171151.png)
 
 **Project Workflow**
 
