@@ -49,7 +49,8 @@ Identified trends, repeat customers, and revenue patterns
 Created interactive dashboards using Power BI
 Visualized key metrics and insights for easy interpretation
 
-![Data_Driven_Consumer_Insights](retail_consumer_behavior_analysis_screenshots/analysis dashboard.png)
+![Data_Driven_Consumer_Insights](retail_consumer_behavior_analysis_screenshots/analysis%20dashboard.png)
+
 
 **Pandas, NumPy** – Data manipulation and transformation
 **MySQL** – Structured data storage and SQL analysis
