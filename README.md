@@ -51,9 +51,6 @@ Visualized key metrics and insights for easy interpretation
 
 ![Data_Driven_Consumer_Insights](retail_consumer_behavior_analysis_screenshots/analysis dashboard.png)
 
-**Tools & Technologies Used**
-
-**Python (Jupyter Notebook)** – Data preparation and modeling
 **Pandas, NumPy** – Data manipulation and transformation
 **MySQL** – Structured data storage and SQL analysis
 **Power BI**– Data visualization and dashboard creation
