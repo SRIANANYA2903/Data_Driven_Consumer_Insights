@@ -48,9 +48,8 @@ Identified trends, repeat customers, and revenue patterns
 
 Created interactive dashboards using Power BI
 Visualized key metrics and insights for easy interpretation
-## 📊 Dashboard Preview
 
-![Customer Purchase Behavior Dashboard](retail_consumer_behavior_analysis_screenshots/analysis dashboard.png)
+!(retail_consumer_behavior_analysis_screenshots/analysis dashboard.png)
 
 **Tools & Technologies Used**
 
